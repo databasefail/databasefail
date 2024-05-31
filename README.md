@@ -1,4 +1,4 @@
-# Databases are the worst. Here is a repository of public posts by companies when a database (or a few) caused that company staff some long term trauma
+Databases are the worst. Here is a repository of public posts by companies when a database (or a few) caused that company staff some long term trauma
 
 May this list serve as a lesson as you use these tools of pain
 
