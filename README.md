@@ -10,6 +10,8 @@ May this list serve as a lesson as you use these tools of pain
 * [RPOs and RTOs are fantasies. Unless you practice them](https://blog.zenodo.org/2018/08/21/2018-08-21-database-incident/)
 * [There are databases everywhere. Even ones you can't control that can still cause you pain](https://blog.cloudflare.com/cloudflare-outage-on-july-17-2020)
 * [The worst kind of database outage is data loss/corruption. Way worse than downtime](https://help.salesforce.com/s/articleView?id=000382725&type=1)
+* [If you are a nascant database vendor, job #1 is to not lose data](https://turso.tech/blog/incident-2023-12-04-data-leak-and-loss-in-some-free-tier-databases-7cba5bc7)
+* [Fault domains mean nothing if it all comes down to one database, as Heroku learned recently](https://status.heroku.com/incidents/2664)
 
 
 
