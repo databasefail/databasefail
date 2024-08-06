@@ -12,6 +12,9 @@ May this list serve as a lesson as you use these tools of pain
 * [The worst kind of database outage is data loss/corruption. Way worse than downtime](https://help.salesforce.com/s/articleView?id=000382725&type=1)
 * [If you are a nascant database vendor, job #1 is to not lose data](https://turso.tech/blog/incident-2023-12-04-data-leak-and-loss-in-some-free-tier-databases-7cba5bc7)
 * [Fault domains mean nothing if it all comes down to one database, as Heroku learned recently](https://status.heroku.com/incidents/2664)
+* [Foreign keys....strike again!](https://status.heroku.com/incidents/2558)
+* [Oh my...sometimes the nightmare keeps going](https://razorpay.com/blog/day-of-rds-multi-az-failover/)
+
 
 
 
