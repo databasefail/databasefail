@@ -14,6 +14,7 @@ May this list serve as a lesson as you use these tools of pain
 10. [Fault domains mean nothing if it all comes down to one database, as Heroku learned recently](https://status.heroku.com/incidents/2664)
 11. [Foreign keys....strike again!](https://status.heroku.com/incidents/2558)
 12. [Oh my...sometimes the nightmare keeps going](https://razorpay.com/blog/day-of-rds-multi-az-failover/)
+13. [Even 'INSTANT' schema changes can go sideways](https://status.honeycomb.io/incidents/ycgvhvs201q1)
 
 
 
